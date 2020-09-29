@@ -13,3 +13,8 @@ $ npm install
 ```sh
 $ npm test
 ```
+
+## Test running in develop mode
+```sh
+$ npm run test:dev
+```
